@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "658231859704009a",
+    "type": "split",
+    "children": [
+      {
+        "id": "71785bd44701906c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f64af07de8022d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Java/Arrays.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arrays"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a0346457f2207ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbf9cd294fd1d05d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c936d15284464ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "ff0ac5ed13ffeae9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "ddb797c54be290b0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 229.5
+  },
+  "right": {
+    "id": "64a5bb52ac30a8f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfbbb6a1b9255950",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64c1889e8e10e0e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6. Java/Arrays.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Arrays 의 백링크"
+            }
+          },
+          {
+            "id": "03f14ee08c50265f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6. Java/Arrays.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Arrays 의 나가는 링크"
+            }
+          },
+          {
+            "id": "09080750e5b2bfaa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "bf7ebf11f0b9050c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6. Java/Arrays.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Arrays 의 개요"
+            }
+          },
+          {
+            "id": "cecfbd9a33d28f6c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "1b275ae950f0c2d0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "7c936d15284464ba",
+  "lastOpenFiles": [
+    "7. SQL",
+    "1. Daily/2026-01-04.md",
+    "8. 취준/자기소개서/2. 키움캐피탈 자기소개서.md",
+    "8. 취준/자기소개서/1. 슈프리마 자기소개서.md",
+    "8. 취준/자기소개서",
+    "8. 취준/이력서.md",
+    "99. Templates/데일리노트 템플릿.md",
+    "99. Templates/주간리뷰 템플릿.md",
+    "99. Templates/월간리뷰 템플릿.md",
+    "99. Templates/scripts/evening_checkin.js.md",
+    "99. Templates/scripts",
+    "99. Templates/무제.md",
+    "2. Weekly/2026-W02.md",
+    "3. Monthly/2026-01.md",
+    "4. Yearly/2026.md",
+    "2026-01-04.md",
+    "무제.canvas",
+    "10. Temp/FCM Web Push.md",
+    "10. Temp",
+    "Attached File/감각 과정.png",
+    "99. Templates",
+    "2026-01.md",
+    "주간 리뷰 2026-W02.md",
+    "2. Weekly/2025-W45.md",
+    "1. Daily/2025-11-06.md",
+    "8. 취준/포트폴리오.md",
+    "6. Java/StringBuilder.md",
+    "5. Blog/Test 용 지식.md",
+    "6. Java/Set.md",
+    "5. Blog/웹 폴링 기반 알림에서 FCM 푸시로 전환하기 - Redis 기반 스케줄 큐 설계와 설정.md",
+    "무제.md",
+    "8. 취준",
+    "6. Java/Arrays.md",
+    "6. Java",
+    "5. Blog",
+    "Attached File/지각 과정.png",
+    "Attached File/감각 과정 1.png",
+    "Attached File/인지 과정.png",
+    "Attached File/사유 과정.png",
+    "Attached File/감정 생성.png",
+    "Attached File/행동 결정.png",
+    "Attached File/언어화 과정.png",
+    "Attached File/반응 과정.png",
+    "Attached File/꿈 생성.png",
+    "BetterLifeBoard/minikube-darwin-arm64",
+    "클라우드컴퓨팅",
+    "무제.base",
+    "BetterLifeBoard/무제.canvas"
+  ]
+}
